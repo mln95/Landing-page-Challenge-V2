@@ -1,4 +1,4 @@
-##Nanodegree programm second challenge
+## Nanodegree programm second challenge
 _LandingPage Challenge_
 
 This website has been built for the FrontEnd web developper Udacity Nanodegree program. 
@@ -8,7 +8,7 @@ The language used are :
 - CSS 
 - Javascript vanilla
 
-##Creation specification
+## Creation specification##
 
 The menu f this web site has been created dynamically using the dom API.
 
