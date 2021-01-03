@@ -8,8 +8,8 @@ The language used are :
 - CSS 
 - Javascript vanilla
 
-## Creation specification##
+## Creation specification
 
-The menu f this web site has been created dynamically using the dom API.
+The menu for this web site has been created dynamically using the dom API.
 
 On the source file you will find some commented code for evolving purposes. Please do not consider it.
